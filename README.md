@@ -172,3 +172,4 @@ Promineo Tech Academic Team
 	str.replace("old", "new")
 ```
 # JavScript-Varaiabes
+# JavScript-Varaiabes
